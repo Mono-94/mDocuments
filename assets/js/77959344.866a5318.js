@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmonodocs=self.webpackChunkmonodocs||[]).push([[5859],{2446:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"mVehicle","description":"Hello","slug":"/category/mvehicle","permalink":"/mDocuments/docs/category/mvehicle","sidebar":"tutorialSidebar","navigation":{"next":{"title":"Guide","permalink":"/mDocuments/docs/mvehicle/"}}}}')}}]);
