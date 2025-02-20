@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonodocs=self.webpackChunkmonodocs||[]).push([[4583],{6107:(o,e,s)=>{s.r(e),s.d(e,{default:()=>c});var n=s(6347),u=s(4848);function c(){return(0,u.jsx)(n.rd,{to:"Home"})}}}]);
